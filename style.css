@@ -10,7 +10,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    height: 100svh;
     background: linear-gradient(90deg, #395492, #0099c0, #3dd5a8);
     font-family: Arial, sans-serif;
     user-select: none;
